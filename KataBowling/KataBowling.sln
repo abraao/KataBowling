@@ -5,10 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataBowling", "KataBowling.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataBowlingUnitTests", "..\KataBowlingUnitTests\KataBowlingUnitTests.csproj", "{C6988DF4-9211-408B-9EA0-6B4CE9C43FAC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D7D8BB8-01C5-42DB-919A-F187D391BBE8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE32C5FC-45F6-4CB3-BFB8-8C2935A7ACFD}"
 	ProjectSection(SolutionItems) = preProject
-		LICENSE.txt = LICENSE.txt
-		README.md = README.md
+		..\LICENSE.txt = ..\LICENSE.txt
+		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Global
